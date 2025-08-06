@@ -21,9 +21,9 @@
 ### Languages and Tools:
 
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" /></a>
 
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNL4Fu_7wSU0ryAcJBgSBiDPAiDqkYr9CK5w&s" /></a>
 
 <a href="https://angular.io" target="_blank"> <img align="left" alt="Angularr" width="40px" src="https://user-images.githubusercontent.com/57770054/116563464-6d98cf00-a8da-11eb-935e-99669935917e.png"/> </a>
 
