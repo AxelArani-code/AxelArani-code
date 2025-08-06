@@ -23,9 +23,9 @@
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" /></a>
 
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNL4Fu_7wSU0ryAcJBgSBiDPAiDqkYr9CK5w&s" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nuxt_logo_%282021%29.svg/2560px-Nuxt_logo_%282021%29.svg.png" /></a>
 
-<a href="https://angular.io" target="_blank"> <img align="left" alt="Angularr" width="40px" src="https://user-images.githubusercontent.com/57770054/116563464-6d98cf00-a8da-11eb-935e-99669935917e.png"/> </a>
+<a href="https://angular.io" target="_blank"> <img align="left" alt="Angularr" width="40px" src="https://imagensempng.com.br/wp-content/uploads/2023/05/Logo-Android-Png.png"/> </a>
 
 <a href="https://www.java.com/es/" target="_blank"> <img align="left" alt="Java" width="40px" src="https://user-images.githubusercontent.com/57770054/116563681-9faa3100-a8da-11eb-8f9b-498f54c84dad.png"/> </a>
 
