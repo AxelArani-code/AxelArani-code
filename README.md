@@ -1,7 +1,5 @@
 
-
-
-<img src="https://user-images.githubusercontent.com/57770054/116573814-835ec200-a8e3-11eb-8489-63bfa08463b7.png">
+💻 Desarrollador Frontend apasionado por crear interfaces atractivas, intuitivas y funcionales. También con experiencia en desarrollo de apps Android nativas.
 <br/>
 <br/>
 
