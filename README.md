@@ -1,62 +1,38 @@
+# 👋🏼 Hola a todos! Soy Axel 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-5BC0EB?style=for-the-badge&logo=react&logoColor=1746C6)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design%20Systems-FF6F61?style=for-the-badge&logo=storybook&logoColor=white)
 
 💻 Desarrollador Frontend apasionado por crear interfaces atractivas, intuitivas y funcionales. También con experiencia en desarrollo de apps Android nativas.
 <br/>
 <br/>
 
-## Heyyo, I'm <a href="https://my-portfolio-axel-a.web.app" target="_blank">Axel</a>!
-(Use dark theme to find my socials ;)
-
-<a href="https://my-portfolio-axel-a.web.app" target="_blank"><img align="left" alt="aakarsh.me" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
-
-<a href="https://www.linkedin.com/in/axel-aranibar-942767198/" target="_blank"><img align="left" alt="Axel | LinkedIn" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-
-<a href="https://www.instagram.com/axel_aranibar/?hl=es-la" target="_blank"><img align="left" alt="Axel | Instagram" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-
-<a href="https://open.spotify.com/user/axelaranibar3" target="_blank"><img align="left" alt="Axel | Spotify" width="30px" src="https://user-images.githubusercontent.com/57770054/116562794-da5f9980-a8d9-11eb-8dc3-727f9402fce6.png" />
+## Soy **Frontend Developer y Android Developer** 
+Con conocimientos en **React, JavaScript y TypeScript.**
+Me apasiona crear interfaces limpias, funcionales y con una experiencia de usuario intuitiva.  
+Disfruto cuidar los detalles visuales y de usabilidad, asegurando que cada proyecto sea accesible, responsive y fácil de utilizar, sin perder de vista las buenas prácticas de desarrollo.
   
-<br />
-<br />
-<br />
-  
-### Languages and Tools:
+## 🌟 Además de lo técnico, valoro y disfruto mucho el trabajo en equipo.  
+Me destaco por mis habilidades de comunicación, adaptabilidad y resolución de problemas,  
+lo que me permite aprender rápido y aportar en entornos colaborativos.  
 
-
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" /></a>
-
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nuxt_logo_%282021%29.svg/2560px-Nuxt_logo_%282021%29.svg.png" /></a>
-
-<a href="https://angular.io" target="_blank"> <img align="left" alt="Angularr" width="40px" src="https://imagensempng.com.br/wp-content/uploads/2023/05/Logo-Android-Png.png"/> </a>
-
-<a href="https://www.java.com/es/" target="_blank"> <img align="left" alt="Java" width="40px" src="https://user-images.githubusercontent.com/57770054/116563681-9faa3100-a8da-11eb-8f9b-498f54c84dad.png"/> </a>
-
-<a href="https://es.reactjs.org" target="_blank"> <img align="left" alt="React" width="40px" src="https://user-images.githubusercontent.com/57770054/116564046-00d20480-a8db-11eb-8c33-5f506e24d60f.png"/> </a>
-
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="40px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<br />
-<br />
-
-
-
-### Softwares:
-
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<a href="https://www.figma.com" target="_blank"> <img align="left" alt="Figma" width="40px" src="https://user-images.githubusercontent.com/57770054/116565805-902be780-a8dc-11eb-8756-5c4b2dbe1849.png"/> </a>
-
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="40px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
-
-<a href="https://developer.android.com/studio" target="_blank"> <img align="left" alt="Illustrator" width="40px" src="https://user-images.githubusercontent.com/57770054/116567880-67a4ed00-a8de-11eb-8643-88600dedeb0f.png"/> </a> 
-
-
-
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="40px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
-
-
-<a href="https://firebase.google.com/?hl=es" target="_blank"> <img align="left" alt="Photoshop" width="30px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png?hl=es"/> </a>
-<br />
-<br />
-
---- 
 
 [![AxelArani-code github stats](https://github-readme-stats.vercel.app/api?username=AxelArani-code&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🤖 Además, me interesa mucho la **Inteligencia Artificial** y cómo funciona.  
+Es un tema que me gustaría **profundizar a futuro**, una vez que me especialice por completo en el frontend,  
+explorando cómo se crean modelos, cómo aprenden y cómo pueden aplicarse en proyectos reales.  
+Siempre buscando aprender y aplicar nuevas tecnologías en proyectos reales.
+
+
+📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/axel-aranibar-942767198/). 
+
+
+
